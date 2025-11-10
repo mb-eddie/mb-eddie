@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mb-eddie
-- 👀 I’m security enthusiast, developer , cloud security analyst
+- 👀 I’m security enthusiast, DevSecOps Engineer, OSINT Specialist , Cloud Security Analyst
 - 🌱 I’m currently working on an ecommerce site 
 - 💞️ I’m looking to work and integrate security in many other applications , for me security is paramount
-- 📫 hit me up at eddi.mboya@gmail.com
 - 😄 I am him 
 - ⚡ Fun fact: ...
 
