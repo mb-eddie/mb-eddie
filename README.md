@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Edgar (@mb-eddie)
 
-### Founder @ ACRIS · OSINT Investigator · Red Team Operator
+### API Security · OSINT Specialist · Red Team Operator
 
 *"Be certain in an uncertain world."*
 
@@ -30,11 +30,6 @@ I'm always up for talking security, OSINT tradecraft, or intelligence work — [
 
 ---
 
-### 🏢 About ACRIS
-
-**ACRIS** (African Covert Research and Intelligence Service) is an intelligence entity with African roots — built to be the continent's reference point for OSINT and applied security intelligence.
-
-*Be Certain in Uncertain World.*
 
 
 
