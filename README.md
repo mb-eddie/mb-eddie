@@ -22,7 +22,7 @@ I sit at the intersection of intelligence work and offensive security — diggin
 - 🛡️ **DevSecOps Engineer** — building security into pipelines, not bolting it on after
 - 🌱 **Always shift left, anytime** — security belongs at the start of the process, not the end
 - 😄 I am him
-- ⚡ Fun fact: If no one is coming to save you then it means no one is coming to stop you either. AMOR FATI
+- ⚡ Fun fact: AMOR FATI
 
 ### 🤝 Let's Connect
 
@@ -32,13 +32,7 @@ I'm always up for talking security, OSINT tradecraft, or intelligence work — [
 
 ### 🏢 About ACRIS
 
-**ACRIS** (African Covert Research and Intelligence Service) is an intelligence company with African roots — built to be the continent's reference point for OSINT and applied security intelligence. Services span three divisions:
-
-| Division | Focus |
-|---|---|
-| 🔎 **ACRIS OSINT** | Background checks & corporate due diligence for fintechs, SACCOs, banks, and law firms — 24-hour turnaround | insider threat analysis
-| 📊 **ACRIS Analytics** | Data analytics for intelligence-driven decision making |
-| 🛡️ **ACRIS Cyber** | Cybersecurity, cloud security, post-quantum crypto readiness, deepfake defense, and insider-threat analysis |
+**ACRIS** (African Covert Research and Intelligence Service) is an intelligence entity with African roots — built to be the continent's reference point for OSINT and applied security intelligence.
 
 *Be Certain in Uncertain World.*
 
