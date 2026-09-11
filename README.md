@@ -27,7 +27,7 @@ I sit at the intersection of intelligence work and offensive security — diggin
 ### 🤝 Let's Connect
 
 I'm always up for talking security, OSINT tradecraft, or intelligence work — [let's connect on LinkedIn](https://www.linkedin.com/in/mboya-edgar-acris/).
-
+All things security
 ---
 
 
